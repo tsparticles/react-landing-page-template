@@ -2,7 +2,7 @@
   "name": "react-landing-page-template",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://tsparticles.github.io/react-landing-page-template",
+  "homepage": "https://tsparticles.github.io/react-landing-page-template/",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.30",
     "@fortawesome/free-brands-svg-icons": "^5.14.0",
