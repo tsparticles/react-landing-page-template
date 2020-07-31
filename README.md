@@ -3,9 +3,9 @@
 tsParticles Simple Landing Page HTML Template for React Websites
 
 ## Landing Page Preview
-[![login](https://raw.githubusercontent.com/tsparticles/react-landing-page-template/master/__screenshots/landing.png)](https://tsparticles.github.io/react-landing-page-template/)
+[![login](https://raw.githubusercontent.com/tsparticles/react-landing-page-template/master/__screenshots/landing.png)](https://tsparticles.github.io/react-landing-page-template/index.html)
 
-See working preview [here](https://tsparticles.github.io/react-landing-page-template/)
+See working preview [here](https://tsparticles.github.io/react-landing-page-template/index.html)
 
 ## What is tsParticles
 
