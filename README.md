@@ -1,4 +1,4 @@
-# tsParticles Authentication Template
+# tsParticles Landing Page Template
 
 tsParticles Simple Landing Page HTML Template for React Websites
 
