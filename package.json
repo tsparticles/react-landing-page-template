@@ -11,7 +11,7 @@
     "@fortawesome/react-fontawesome": "^0.1.14",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
-    "react-scripts": "4.0.1",
+    "react-scripts": "4.0.2",
     "react-tsparticles": "^1.18.12"
   },
   "scripts": {
